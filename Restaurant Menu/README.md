@@ -58,18 +58,17 @@ https://www.figma.com/proto/qiFV5Kp49A9i6gWstPcs1w/Restaurent-Menu?node-id=5-40&
 
 <img width="399" height="818" alt="start screen" src="https://github.com/user-attachments/assets/08f161a5-30f1-4c40-818d-72dac853ee42" />
 
-
 ### Menu Screen
 
-![Menu Screen](Menu%20Screen.png)
+<img width="397" height="823" alt="Full menu" src="https://github.com/user-attachments/assets/e67243ea-27a0-407d-8b08-1dcfa969dbf9" />
 
 ### Pizza Details
 
-![Pizza Details](Pizza%20Details.png)
+<img width="403" height="821" alt="Pizza section" src="https://github.com/user-attachments/assets/0c1329f7-6e56-4a0a-8996-4689a2132cf1" />
 
 ### Burger Details
 
-![Burger Details](Burger%20Details.png)
+<img width="400" height="823" alt="Burger section" src="https://github.com/user-attachments/assets/c6b903e6-d693-4c6d-a969-447863f20aed" />
 
 ## 🛠️ Tools Used
 
